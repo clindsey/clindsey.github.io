@@ -28,3 +28,5 @@ docs/
 
 # Bower packages folder
 bower_components/
+
+.c9
